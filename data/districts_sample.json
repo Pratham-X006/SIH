@@ -1,0 +1,61 @@
+{
+  "_note": "Approximate figures referenced from public 2011 Census district summaries. Sample seed data only — see README.md in this folder.",
+  "districts": [
+    {
+      "name": "Wayanad",
+      "state": "Kerala",
+      "hazard_focus": "landslide",
+      "centroid": {"lat": 11.685, "lon": 76.132},
+      "population_approx": 817420,
+      "vulnerability_index": 0.82
+    },
+    {
+      "name": "Idukki",
+      "state": "Kerala",
+      "hazard_focus": "landslide",
+      "centroid": {"lat": 9.85, "lon": 77.10},
+      "population_approx": 1108974,
+      "vulnerability_index": 0.78
+    },
+    {
+      "name": "Kamrup",
+      "state": "Assam",
+      "hazard_focus": "flood",
+      "centroid": {"lat": 26.20, "lon": 91.75},
+      "population_approx": 1517542,
+      "vulnerability_index": 0.70
+    },
+    {
+      "name": "Nagaon",
+      "state": "Assam",
+      "hazard_focus": "flood",
+      "centroid": {"lat": 26.35, "lon": 92.68},
+      "population_approx": 2823768,
+      "vulnerability_index": 0.88
+    },
+    {
+      "name": "Barpeta",
+      "state": "Assam",
+      "hazard_focus": "flood",
+      "centroid": {"lat": 26.32, "lon": 91.01},
+      "population_approx": 1693622,
+      "vulnerability_index": 0.85
+    },
+    {
+      "name": "Darjeeling",
+      "state": "West Bengal",
+      "hazard_focus": "landslide",
+      "centroid": {"lat": 27.04, "lon": 88.26},
+      "population_approx": 1846823,
+      "vulnerability_index": 0.75
+    },
+    {
+      "name": "Cuttack",
+      "state": "Odisha",
+      "hazard_focus": "cyclone",
+      "centroid": {"lat": 20.46, "lon": 85.88},
+      "population_approx": 2624470,
+      "vulnerability_index": 0.60
+    }
+  ]
+}
